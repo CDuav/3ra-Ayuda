@@ -3,7 +3,7 @@ Dispositivo Funcional de ayuda a los adulto mayores
 
 **3ra Ayuda** es un dispositivo IoT inteligente diseñado para localizar a un adulto mayor mediante GPS y monitorear su ritmo cardíaco y temperatura corporal. Este dispositivo proporciona seguridad y tranquilidad tanto a los usuarios como a sus cuidadores y familiares.
 
-## Características Principales
+## Características Principales - Epicas
 
 ### Localización GPS
 - **Módulo GPS Integrado:** Utiliza un módulo GPS de alta precisión para rastrear la ubicación del usuario en tiempo real.
