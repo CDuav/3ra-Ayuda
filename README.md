@@ -10,15 +10,19 @@ Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/
 
 ## Sensores y Módulos Utilizados
 
-| Componente           | Descripción                                                   |Precio | imagen |
-|----------------------|---------------------------------------------------------------|--------- |------|
-| ESP32                | Microcontrolador con Wi-Fi y Bluetooth integrado.             | $140     |![image](https://github.com/CDuav/3ra-Ayuda/assets/106613848/a9ce89ca-4041-48cc-84a3-2dd9e7d577d0)
-      |
-| Pantalla LCD         | Pantalla para mostrar información relevante al usuario.       |          |      |
-| Sensor de Temperatura| Sensor para medir la temperatura corporal del usuario.        |          |      |
-| Módulo GPS           | Módulo para la localización precisa mediante GPS.             |          |      |
-| Sensor de Impacto    | Sensor para detectar caídas o impactos fuertes.               |          |      |
-| Sensor de Ritmo Cardíaco | Sensor óptico (PPG) para medir el ritmo cardíaco del usuario. |      |      |
+| Componente           | Descripción                                                   | Precio | Imagen |
+|----------------------|---------------------------------------------------------------|---------|--------|
+| ESP32                | Microcontrolador con Wi-Fi y Bluetooth integrado.             | $140    | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/a9ce89ca-4041-48cc-84a3-2dd9e7d577d0" width="150" height="100"> |
+| Pantalla LCD         | Pantalla para mostrar información relevante al usuario.       | $60     | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/011fe9ae-335a-4bdd-9258-9d66ddb664bf" width="150" height="100"> |
+| Sensor de Temperatura| Sensor para medir la temperatura corporal del usuario.        | $87     | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/4aa0e931-2dcd-4e49-b6e5-c4092a74fa70" width="150" height="100"> |
+| Módulo GPS           | Módulo para la localización precisa mediante GPS.             | $160    | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/e4667e00-37f9-40b2-97b2-cc5a31554e27" width="150" height="100"> |
+| Sensor de Impacto    | Sensor para detectar caídas o impactos fuertes.               | $75     | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/2617fcf3-f752-477a-9e09-d549887cbd15" width="150" height="100"> |
+| Sensor de Ritmo Cardíaco | Sensor óptico (PPG) para medir el ritmo cardíaco del usuario. | $199  | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/456e9582-cbb7-403a-b6c4-3741b5dbe8db" width="150" height="100"> |
+
+## Ejemplos de Funcionamiento
+- **Escenario 1:** El usuario sale de su casa y el dispositivo sigue enviando su ubicación GPS a la aplicación móvil. Si el usuario se pierde o sale de una zona segura, la aplicación notifica a los cuidadores.
+- **Escenario 2:** Si el dispositivo detecta que la frecuencia cardíaca del usuario es anormalmente alta o baja, envía una alerta inmediata a los cuidadores y sugiere verificar su estado de salud.
+- **Escenario 3:** La temperatura corporal del usuario se monitorea continuamente y cualquier cambio significativo genera una notificación para tomar acciones preventivas.
 
 
 ## Características Principales - Epicas
@@ -58,12 +62,14 @@ Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/
 - **Movilidad Segura:** Las geocercas y las alertas de localización ayudan a mantener al usuario seguro y localizarlo rápidamente si se pierde.
 - **Independencia:** Permite a los adultos mayores mantener su independencia mientras brinda una capa adicional de seguridad.
 
-## Ejemplos de Funcionamiento
-- **Escenario 1:** El usuario sale de su casa y el dispositivo sigue enviando su ubicación GPS a la aplicación móvil. Si el usuario se pierde o sale de una zona segura, la aplicación notifica a los cuidadores.
-- **Escenario 2:** Si el dispositivo detecta que la frecuencia cardíaca del usuario es anormalmente alta o baja, envía una alerta inmediata a los cuidadores y sugiere verificar su estado de salud.
-- **Escenario 3:** La temperatura corporal del usuario se monitorea continuamente y cualquier cambio significativo genera una notificación para tomar acciones preventivas.
-
-
-
-
 **3ra Ayuda** combina tecnologías avanzadas para proporcionar un cuidado integral y mejorar la calidad de vida de los adultos mayores, permitiéndoles vivir de manera más independiente y segura.
+
+## Servicios Implementados
+|Descripción                                                                                        |  Imagen                                                                                                                     |
+|---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|Imagen de las conexiones básicas del prototipo actual /07/06/2024                                  |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/334219b9-89c3-43e9-b46b-862d35064912" width="250" height="250">|
+|Imagén de los nodos en Node Red que realizan la inserción de los datos y Graficado de Estos mismos |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/452c7492-10ad-442e-9c23-1a6513d14f75" width="250" height="250">|
+|Imagén de los Datos recibidos de los sensores e insertados una base de Datos en estructura         |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/6891ab1b-1230-42a1-95fc-df144df19e7e" width="250" height="250">|
+|Imagén de los Datos recibidos de los sensores e insertados una Grafica de Node Red                 |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/ab604081-76bc-468f-ad57-e82184dbac7f" width="250" height="250">|
+|Prototipo dibujado del producto Final Sujeto a Cambios posteriores.                                |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/e9a85f6c-13ec-484d-a9d3-cebc13dd92af" width="250" height="250">|
+
