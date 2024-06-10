@@ -30,7 +30,6 @@ Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/
 ### Localización GPS
 - **Módulo GPS Integrado:** Utiliza un módulo GPS de alta precisión para rastrear la ubicación del usuario en tiempo real.
 - **Conectividad:** Puede conectarse a través de redes celulares (4G/5G) o Wi-Fi para enviar datos de localización a una aplicación móvil o a una plataforma en la nube.
-- **Geocercas:** Permite configurar zonas seguras y envía alertas si el usuario sale de estas áreas predeterminadas.
 
 ### Monitoreo del Ritmo Cardíaco
 - **Sensor de Ritmo Cardíaco:** Equipado con un sensor óptico (PPG - fotopletismografía) que mide el ritmo cardíaco de manera continua.
