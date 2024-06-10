@@ -1,7 +1,25 @@
-# 3ra-Ayuda
-Dispositivo Funcional de ayuda a los adulto mayores
+# 3ra-Ayuda Dispositivo Funcional de ayuda a los adultos mayores
+
+## Visión ##
+Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcionar tranquilidad a sus cuidadores y familiares, a través de un dispositivo IoT inteligente que combina tecnología GPS y monitoreo de salud para garantizar la seguridad y el bienestar de nuestros seres queridos.
 
 **3ra Ayuda** es un dispositivo IoT inteligente diseñado para localizar a un adulto mayor mediante GPS y monitorear su ritmo cardíaco y temperatura corporal. Este dispositivo proporciona seguridad y tranquilidad tanto a los usuarios como a sus cuidadores y familiares.
+
+## Software Utilizado ##
+Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/thonny/tree/master/licenses)
+
+## Sensores y Módulos Utilizados
+
+| Componente           | Descripción                                                   |Precio | imagen |
+|----------------------|---------------------------------------------------------------|--------- |------|
+| ESP32                | Microcontrolador con Wi-Fi y Bluetooth integrado.             | $140     |![image](https://github.com/CDuav/3ra-Ayuda/assets/106613848/a9ce89ca-4041-48cc-84a3-2dd9e7d577d0)
+      |
+| Pantalla LCD         | Pantalla para mostrar información relevante al usuario.       |          |      |
+| Sensor de Temperatura| Sensor para medir la temperatura corporal del usuario.        |          |      |
+| Módulo GPS           | Módulo para la localización precisa mediante GPS.             |          |      |
+| Sensor de Impacto    | Sensor para detectar caídas o impactos fuertes.               |          |      |
+| Sensor de Ritmo Cardíaco | Sensor óptico (PPG) para medir el ritmo cardíaco del usuario. |      |      |
+
 
 ## Características Principales - Epicas
 
@@ -47,15 +65,5 @@ Dispositivo Funcional de ayuda a los adulto mayores
 
 
 
-## Sensores y Módulos Utilizados
-
-| Componente           | Descripción                                                   |
-|----------------------|---------------------------------------------------------------|
-| ESP32                | Microcontrolador con Wi-Fi y Bluetooth integrado.             |
-| Pantalla LCD         | Pantalla para mostrar información relevante al usuario.       |
-| Sensor de Temperatura| Sensor para medir la temperatura corporal del usuario.        |
-| Módulo GPS           | Módulo para la localización precisa mediante GPS.             |
-| Sensor de Impacto    | Sensor para detectar caídas o impactos fuertes.               |
-| Sensor de Ritmo Cardíaco | Sensor óptico (PPG) para medir el ritmo cardíaco del usuario. |
 
 **3ra Ayuda** combina tecnologías avanzadas para proporcionar un cuidado integral y mejorar la calidad de vida de los adultos mayores, permitiéndoles vivir de manera más independiente y segura.
