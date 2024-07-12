@@ -61,10 +61,10 @@ Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/
 - **Movilidad Segura:** Las geocercas y las alertas de localización ayudan a mantener al usuario seguro y localizarlo rápidamente si se pierde.
 - **Independencia:** Permite a los adultos mayores mantener su independencia mientras brinda una capa adicional de seguridad.
 
-## Aplicación deMonitoreo
-- **La Aplicación se Creara en una app en el Framework DArt o Flutter que permiten crear aplicaciones web y Nativas para poder desplegarlas en un entorno Virtual
-- **La App deberá poder desplegarse en un Dispositivo Smart
-- **La Aplicación deberá ser capaz de concetar de manera Directa con el Dispositivo para verificar las Gráficas de los sensores del usuario que lleva el Dispositivo Wearable
+## Aplicación de Monitoreo
+- *La Aplicación* se Creara en una app en el Framework Dart o Flutter que permiten crear aplicaciones web y Nativas para poder desplegarlas en un entorno Virtual
+- *La Aplicación* deberá poder desplegarse en un Dispositivo Smart
+- *La Aplicación* deberá ser capaz de concetar de manera Directa con el Dispositivo para verificar las Gráficas de los sensores del usuario que lleva el Dispositivo Wearable
   
 **3ra Ayuda** combina tecnologías avanzadas para proporcionar un cuidado integral y mejorar la calidad de vida de los adultos mayores, permitiéndoles vivir de manera más independiente y segura.
 
