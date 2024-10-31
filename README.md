@@ -5,8 +5,25 @@ Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcio
 
 **3ra Ayuda** es un dispositivo IoT inteligente diseñado para localizar a un adulto mayor mediante GPS y monitorear su ritmo cardíaco y temperatura corporal. Este dispositivo proporciona seguridad y tranquilidad tanto a los usuarios como a sus cuidadores y familiares.
 
-## Software Utilizado ##
-Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/thonny/tree/master/licenses)
+## Software empleado
+
+| Nombre               | Licencia                                         |
+|----------------------|--------------------------------------------------|
+| Thonny               | The MIT License (MIT)                            |
+| Arduino IDE          | AGPL-3.0 license                                 |
+| Fritzing             | GNU GPL v3                                       |
+| Node-RED             | Apache License 2.0                               |
+| Visual Studio Code   | Licencia MIT, Binarios: Freeware                 |
+| Tinkercad            | Free for everyone                                |
+| NEO-6M_GPS           | The MIT License (MIT)                            |
+| SparkFun MAX3010x    | Creative Commons Share-alike 4.0 International   |
+| Visual Studio        | Microsoft Software License Terms                 |
+| Flutter              | BSD 3-Clause License                             |
+| fl_chart             | MIT license                                      |
+| flutter_map          | BSD-3-Clause license                             |
+| latlong              | Apache 2.0                                       |
+| mqtt_client          | MIT License                                      |
+| supabase_flutter     | Copyright (c) 2020 Supabase                      |
 
 ## Sensores y Módulos Utilizados
 
