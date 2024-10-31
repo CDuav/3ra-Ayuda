@@ -13,11 +13,12 @@ Thonny IDE - Versión: 3.3.13 - Licencia de uso Libre(https://github.com/thonny/
 | Componente           | Descripción                                                   | Precio | Imagen |
 |----------------------|---------------------------------------------------------------|---------|--------|
 | ESP32                | Microcontrolador con Wi-Fi y Bluetooth integrado.             | $140    | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/a9ce89ca-4041-48cc-84a3-2dd9e7d577d0" width="150" height="100"> |
-| Pantalla LCD         | Pantalla para mostrar información relevante al usuario.       | $60     | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/011fe9ae-335a-4bdd-9258-9d66ddb664bf" width="150" height="100"> |
-| Sensor de Temperatura| Sensor para medir la temperatura corporal del usuario.        | $87     | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/4aa0e931-2dcd-4e49-b6e5-c4092a74fa70" width="150" height="100"> |
 | Módulo GPS           | Módulo para la localización precisa mediante GPS.             | $160    | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/e4667e00-37f9-40b2-97b2-cc5a31554e27" width="150" height="100"> |
-| Sensor de Impacto    | Sensor para detectar caídas o impactos fuertes.               | $75     | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/2617fcf3-f752-477a-9e09-d549887cbd15" width="150" height="100"> |
-| Sensor de Ritmo Cardíaco | Sensor óptico (PPG) para medir el ritmo cardíaco del usuario. | $199  | <img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/456e9582-cbb7-403a-b6c4-3741b5dbe8db" width="150" height="100"> |
+| Sensor de Ritmo Cardíaco | Sensor óptico (PPG) para medir el ritmo cardíaco del usuario. | $199  | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/20357a488/sensor-de-pulso-cardiaco.jpg" width="150" height="100"> |
+| Acelerómetro y Giroscopio           | Módulo Sensor con acelerómetro y giroscopio.             | $90    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/216213368/sensor-con-acelerometro-y-giroscopio.jpg" width="150" height="100"> |
+| Sensor de Inclinación(Mercurio)           | Módulo Sensor con acelerómetro y giroscopio.             | $90    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/216213368/sensor-con-acelerometro-y-giroscopio.jpg" width="150" height="100"> |
+| Buzzer (Zumbador)           | Módulo Buzzer Activo.             | $16    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/21409dbc1/mini-buzzer-de-4-khz-a-de-1-5-a-16-vcc-con-se-al-de-tono-constante-de-85-db.jpg" width="150" height="100"> |
+| Led RGB           | Módulo de Diodo LEDRGB.             | $15    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/21726305e/led-de-5-mm-rgb.jpg" width="150" height="100"> |
 
 ## Ejemplos de Funcionamiento
 - **Escenario 1:** El usuario sale de su casa y el dispositivo sigue enviando su ubicación GPS a la aplicación móvil. Si el usuario se pierde o sale de una zona segura, la aplicación notifica a los cuidadores.
