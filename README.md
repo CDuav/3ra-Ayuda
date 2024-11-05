@@ -35,7 +35,14 @@ Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcio
 | Acelerómetro y Giroscopio           | Módulo Sensor con acelerómetro y giroscopio.             | $90    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/216213368/sensor-con-acelerometro-y-giroscopio.jpg" width="150" height="100"> |
 | Sensor de Inclinación(Mercurio)           | Módulo Sensor con acelerómetro y giroscopio.             | $90    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/216213368/sensor-con-acelerometro-y-giroscopio.jpg" width="150" height="100"> |
 | Buzzer (Zumbador)           | Módulo Buzzer Activo.             | $16    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/21409dbc1/mini-buzzer-de-4-khz-a-de-1-5-a-16-vcc-con-se-al-de-tono-constante-de-85-db.jpg" width="150" height="100"> |
-| Led RGB           | Módulo de Diodo LEDRGB.             | $15    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/21726305e/led-de-5-mm-rgb.jpg" width="150" height="100"> |
+| Led RGB           | Módulo de Diodo Led RGB.             | $15    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/21726305e/led-de-5-mm-rgb.jpg" width="150" height="100"> |
+| Gabinete           | Gabinete de Plastico 7.6 x 2.7 x 5 Cm.             | $35    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/1729991d4/gabinete-plastico-de-7-6-x-2-7-x-5-cm.jpg" width="150" height="100"> |
+| Botón           | Micro Switch de push, 4 Terminales             | $2    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/16167a140/micro-switch-de-push-con-4-terminales.jpg" width="150" height="100"> |
+| Cautin           | Cautín para Soldar Componentes             | $119    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/166535a61/cautin-tipo-lapiz-de-35-watts.jpg" width="150" height="100"> |
+| Estaño           | Estaño para Soldar Componentes             | $59    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/18700be07/tubo-de-17-gramos-de-soldadura-con-aleacion-esta-o-plomo-60-40.jpg" width="150" height="100"> |
+|Placa Fenólica           | Placa Fenólica perforada Tipo Protoboard de 7 x 14.5 Cm             | $49    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/15125c48c/placa-fenolica-perforada-tipo-protoboard-de-7-cm-x-14-5-cm.jpg" width="150" height="100"> |
+| Pasta Para Soldar           | Pasta para soldar en lata con 60 gramos.             | $39    | <img src="https://www.steren.com.mx/media/catalog/product/cache/bb0cad18a6adb5d17b0efd58f4201a2f/image/18699fcc0/pasta-para-soldar-en-lata-con-60-gramos.jpg" width="150" height="100"> |
+
 
 ## Ejemplos de Funcionamiento
 - **Escenario 1:** El usuario sale de su casa y el dispositivo sigue enviando su ubicación GPS a la aplicación móvil. Si el usuario se pierde o sale de una zona segura, la aplicación notifica a los cuidadores.
@@ -94,4 +101,11 @@ Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcio
 |Imagén de los Datos recibidos de los sensores e insertados una base de Datos en estructura         |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/6891ab1b-1230-42a1-95fc-df144df19e7e" width="250" height="250">|
 |Imagén de los Datos recibidos de los sensores e insertados una Grafica de Node Red                 |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/ab604081-76bc-468f-ad57-e82184dbac7f" width="250" height="250">|
 |Prototipo dibujado del producto Final Sujeto a Cambios posteriores.                                |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/e9a85f6c-13ec-484d-a9d3-cebc13dd92af" width="250" height="250">|
+
+## Video Demostrativo de funcionamiento
+
+- [Video Demostrativo del funcionamiento](https://drive.google.com/drive/folders/1QISYTJzrmxpS42OIPmXrjBR_38Kfwhw1?usp=drive_link)
+- [Video Demostrativo de la Aprobación del Cliente](https://drive.google.com/drive/folders/1QISYTJzrmxpS42OIPmXrjBR_38Kfwhw1?usp=drive_link)
+
+## Carta de Aprobación del Cliente
 
