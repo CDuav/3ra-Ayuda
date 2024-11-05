@@ -102,6 +102,9 @@ Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcio
 |Imagén de los Datos recibidos de los sensores e insertados una Grafica de Node Red                 |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/ab604081-76bc-468f-ad57-e82184dbac7f" width="250" height="250">|
 |Prototipo dibujado del producto Final Sujeto a Cambios posteriores.                                |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/e9a85f6c-13ec-484d-a9d3-cebc13dd92af" width="250" height="250">|
 
+## Repositorio de la Aplicación Móvil
+- [TerceraAyuda](https://github.com/DANNYLOOL/TerceraAyuda)
+
 ## Video Demostrativo de funcionamiento
 
 - [Video Demostrativo del funcionamiento](https://drive.google.com/drive/folders/1QISYTJzrmxpS42OIPmXrjBR_38Kfwhw1?usp=drive_link)
