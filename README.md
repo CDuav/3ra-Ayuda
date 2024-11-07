@@ -97,11 +97,14 @@ Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcio
 |Descripción                                                                                        |  Imagen                                                                                                                     |
 |---------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
 |Imagen de las conexiones básicas del prototipo actual /07/06/2024                                  |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/334219b9-89c3-43e9-b46b-862d35064912" width="250" height="250">|
-|Imagén de los nodos en Node Red que realizan la inserción de los datos y Graficado de Estos mismos |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/452c7492-10ad-442e-9c23-1a6513d14f75" width="250" height="250">|
-|Imagén de los Datos recibidos de los sensores e insertados una base de Datos en estructura         |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/6891ab1b-1230-42a1-95fc-df144df19e7e" width="250" height="250">|
-|Imagén de los Datos recibidos de los sensores e insertados una Grafica de Node Red                 |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/ab604081-76bc-468f-ad57-e82184dbac7f" width="250" height="250">|
-|Prototipo dibujado del producto Final Sujeto a Cambios posteriores.                                |<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/e9a85f6c-13ec-484d-a9d3-cebc13dd92af" width="250" height="250">|
+|Imagén de la inserción de los datos y Graficado de Estos mismos |<img src="https://github.com/user-attachments/assets/444e6f45-5db9-4673-ba10-cdd43a5bfa19" width="250" height="250">|
+|Imagén de los Datos recibidos de los sensores e insertados una base de Datos en estructura|<img src="https://github.com/CDuav/3ra-Ayuda/assets/106613848/6891ab1b-1230-42a1-95fc-df144df19e7e" width="250" height="250">|
+|Imagén de los Datos recibidos de los sensores e insertados una Grafica de la Aplicación de Flutter|<img src="https://github.com/user-attachments/assets/f917e59b-328c-4222-9d63-0baf8c983ac0" width="250" height="250">|
+|Graficado en Tiempo Real de los Componentes y sensores.                                |<img src="https://github.com/user-attachments/assets/c56fcc4f-dac0-4597-8120-be195ffaaea2" width="250" height="250">|
+|Graficado en Tiempo Real de los Componentes y sensores.                   |<img src="https://github.com/user-attachments/assets/c56fcc4f-dac0-4597-8120-be195ffaaea2" width="250" height="250">|
+|Prototipo dibujado del producto Final Sujeto a Cambios posteriores.     |<img src="https://github.com/user-attachments/assets/102a4834-6e70-4eb7-b986-52937a978220" width="250" height="250">|
 |Prototipo Final de componentes y Sensores.                                |<img src="https://github.com/user-attachments/assets/542783a0-bda2-4adb-b1ef-8133c64cd12c" width="250" height="250">|
+
 
 
 
