@@ -111,8 +111,8 @@ Nuestra visión es mejorar la calidad de vida de los adultos mayores y proporcio
 
 ## Video Demostrativo de funcionamiento
 
-- [Video Demostrativo del funcionamiento](https://drive.google.com/drive/folders/1QISYTJzrmxpS42OIPmXrjBR_38Kfwhw1?usp=drive_link)
-- [Video Demostrativo de la Aprobación del Cliente](https://drive.google.com/drive/folders/1QISYTJzrmxpS42OIPmXrjBR_38Kfwhw1?usp=drive_link)
+- [Video Demostrativo del funcionamiento](https://drive.google.com/file/d/18fjk50ynluQuUq2nyjW8mvR03PXVgkPZ/view?usp=drive_link)
+- [Video Demostrativo de la Aprobación del Cliente](https://drive.google.com/file/d/1JYD6bhK07k4_Yf4YZmh0bJaHgBp5uZ7O/view?usp=drive_link)
 
 ## Carta de Aprobación del Cliente
 [Carta Firmada](https://drive.google.com/file/d/1tJhqwnM_O-UBTl9HT_Y2_T10SPMj20Rb/view?usp=drive_link)
